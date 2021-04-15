@@ -13,6 +13,9 @@ return [
      * Static output folder: HTML documentation and assets will be generated in this folder.
      */
    'output_folder' => 'public/docs',
+    
+   /* Hide the info block */
+   'hide_info' => true, 
 
     /*
      * Settings for `laravel` type output.
